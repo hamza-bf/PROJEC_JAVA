@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/Vues/PosteVue/AddPoste.fxml</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/hirepromarwen/utils/MyConnection.java</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/Vues/OffreVues/AddOffreController.java</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/Vues/OffreVues/AfficherOffre.fxml</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/Vues/OffreVues/AfficherOffreController.java</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/Vues/OffreVues/addoffre.css</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/Vues/PosteVue/PosteManagementController.java</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/Vues/PosteVue/PosteManagement.fxml</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/Vues/PosteVue/AddPosteController.java</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/hirepromarwen/services/PosteServiceImpl.java</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/hirepromarwen/entities/Poste.java</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/Vues/OffreVues/AddOffre.fxml</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/hirepromarwen/services/OffreEmploiServiceImpl.java</file>
+            <file>file:/D:/esprit/projet%20java_mobile/HireProMarwen/src/Vues/OffreVues/afficheroffre.css</file>
+        </group>
+    </open-files>
+</project-private>
