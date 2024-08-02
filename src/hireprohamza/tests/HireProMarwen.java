@@ -1,4 +1,4 @@
-package hirepromarwen.tests;
+package hireprohamza.tests;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hirepromarwen.entities;
+package hireprohamza.entities;
 
-import hirepromarwen.enums.TypeLieuTravail;
-import hirepromarwen.enums.TypeEmploi;
 import java.sql.Date;
 import java.time.LocalDate;
+
+import hireprohamza.enums.TypeEmploi;
+import hireprohamza.enums.TypeLieuTravail;
 
 /**
  *

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  *///POST FOR FREE
-package Vues.OffreVues;
+package hireprohamza.Vues.OffreVues;
 
 import java.net.URL;
 import java.util.ResourceBundle;

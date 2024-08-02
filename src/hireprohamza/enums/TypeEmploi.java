@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hirepromarwen.enums;
+package hireprohamza.enums;
 
 /**
  *
  * @author ASUS
  */
-public enum TypeLieuTravail {
-    SurSite,Hybride,ADistance
+public enum TypeEmploi {
+    TempsPlein,TeempsPartiel,contratCDI,contratSVIP,Stage,Alternance
+    
 }

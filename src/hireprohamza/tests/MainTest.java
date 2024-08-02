@@ -3,16 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hirepromarwen.tests;
+package hireprohamza.tests;
 
-import hirepromarwen.entities.Offre;
-import hirepromarwen.entities.Poste;
-import hirepromarwen.enums.TypeEmploi;
-import hirepromarwen.enums.TypeLieuTravail;
-import hirepromarwen.services.OffreEmploiServiceImpl;
-import hirepromarwen.services.PosteServiceImpl;
-import hirepromarwen.utils.MyConnection;
 import java.time.LocalDate;
+
+import hireprohamza.entities.Offre;
+import hireprohamza.entities.Poste;
+import hireprohamza.enums.TypeEmploi;
+import hireprohamza.enums.TypeLieuTravail;
+import hireprohamza.services.OffreEmploiServiceImpl;
+import hireprohamza.services.PosteServiceImpl;
+import hireprohamza.utils.MyConnection;
 
 /**
  *

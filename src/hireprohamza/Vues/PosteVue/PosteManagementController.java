@@ -3,10 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Vues.PosteVue;
+package hireprohamza.Vues.PosteVue;
 
-import hirepromarwen.entities.Poste;
-import hirepromarwen.utils.MyConnection;
 import java.awt.event.MouseEvent;
 import java.io.IOException;
 import java.net.URL;
@@ -17,6 +15,10 @@ import java.sql.SQLException;
 import java.util.ResourceBundle;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
+import hireprohamza.entities.Poste;
+import hireprohamza.utils.MyConnection;
+
 import static javafx.application.ConditionalFeature.FXML;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;

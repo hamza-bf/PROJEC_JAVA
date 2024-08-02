@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Vues.PosteVue;
+package hireprohamza.Vues.PosteVue;
 
-import hirepromarwen.entities.Poste;
-import hirepromarwen.services.PosteServiceImpl;
 import java.net.URL;
 import java.util.ResourceBundle;
+
+import hireprohamza.entities.Poste;
+import hireprohamza.services.PosteServiceImpl;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;

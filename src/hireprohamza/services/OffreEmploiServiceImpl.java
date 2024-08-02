@@ -3,11 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hirepromarwen.services;
+package hireprohamza.services;
 
-import hirepromarwen.entities.Offre;
-import hirepromarwen.interfaces.ICRUD;
-import hirepromarwen.utils.MyConnection;
 import java.sql.Date;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -15,6 +12,10 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
+
+import hireprohamza.entities.Offre;
+import hireprohamza.interfaces.ICRUD;
+import hireprohamza.utils.MyConnection;
 
 /**
  *
